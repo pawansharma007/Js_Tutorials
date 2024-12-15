@@ -35,4 +35,6 @@ console.log(typeof(null));    // it is of object type
 console.log(typeof(undefined)); //it is of undefined type
 
 
+console.log(typeof age) //it is similar to console.log(typeof(age))
+
 
